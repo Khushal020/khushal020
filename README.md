@@ -1,21 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Khushal Gondaliya
-==========================================================================================================================================
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Khushal Gondaliya
 
-Software & Platform Engineer
-----------------------------
+### **Software & Platform Engineer**
 
-I am a Software & Platform Engineer with over 4 years of experience architecting resilient, high-throughput distributed systems and full-stack enterprise applications. My expertise spans building robust backend microservices using Java (Spring Boot), Python, and Node.js, seamlessly integrated with modern React and TypeScript frontends. I specialize in cloud-native infrastructure, leveraging AWS (ECS, Lambda, S3, RDS), Terraform, and Docker to deploy scalable, containerized architectures supported by automated CI/CD pipelines.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushal020)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushal020)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushalgondaliya020@gmail.com)
 
-Driven by an operational mindset, I focus heavily on system resilience, low-latency performance, and deep observability. Whether designing real-time event streaming pipelines with Apache Kafka, optimizing PostgreSQL database connection pools, or setting up proactive telemetry with Prometheus, I engineer platforms built to handle heavy production loads and fail gracefully. I hold a Master of Applied Computer Science from Dalhousie University and am passionate about clean code, robust system architecture, and solving complex technical challenges.
+---
 
-*   🌍  I'm based in Toronto, Ontario
-*   ✉️  You can contact me at [khushalgondaliya020@gmail.com](mailto:khushalgondaliya020@gmail.com)
-*   🚀  I'm currently working on [Idencis POS & Ecommerce platform](https://idencissolutions.com)
-*   🧠  Currently deepening my expertise in Kubernetes container orchestration, Advanced Apache Kafka event-sourcing patterns, and building high-concurrency microservices with Go (Golang).
-*   👥  I'm looking to collaborate on Open-source Java & Node.js microservices, real-time event-driven platforms (Kafka/Redis), React dashboards, and cloud infrastructure projects on AWS. Always excited to collaborate on developer tools or high-throughput distributed systems.
+I am a **Software & Platform Engineer** with 4+ years of experience architecting resilient, high-throughput distributed systems and full-stack enterprise applications. My expertise spans building robust backend microservices using **Java (Spring Boot)**, **Python**, and **Node.js**, seamlessly integrated with modern **React** and **TypeScript** frontends. I specialize in cloud-native infrastructure, leveraging **AWS (ECS, Lambda, S3, RDS)**, **Terraform**, and **Docker** to deploy scalable, containerized architectures supported by automated CI/CD pipelines.
 
+Driven by an operational mindset, I focus heavily on system resilience, low-latency performance, and deep observability. Whether designing real-time event streaming pipelines with **Apache Kafka**, optimizing **PostgreSQL** database connection pools, or setting up proactive telemetry with **Prometheus**, I engineer platforms built to handle heavy production loads and fail gracefully. I hold a Master of Applied Computer Science from Dalhousie University and am passionate about clean code, robust system architecture, and solving complex technical challenges.
 
-<p align="left">
+---
+
+### 📌 Quick Overview
+
+* 🌍 **Location:** Toronto, Ontario
+* ✉️ **Contact:** [khushalgondaliya020@gmail.com](mailto:khushalgondaliya020@gmail.com)
+* 🚀 **Currently Building:** [Idencis POS & Ecommerce platform](https://idencissolutions.com)
+* 🧠 **Currently Learning:** Kubernetes container orchestration, Advanced Apache Kafka event-sourcing patterns, and building high-concurrency microservices with **Go (Golang)**.
+* 👥 **Open to Collaborate On:** Open-source Java & Node.js microservices, real-time event-driven platforms (Kafka/Redis), React dashboards, and cloud infrastructure projects on AWS.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
 <p align="left">
   <!-- Languages -->
   <sub><b>LANGUAGES</b></sub><br/>
@@ -72,9 +82,34 @@ Driven by an operational mindset, I focus heavily on system resilience, low-late
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 </p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushal020&show_icons=true&theme=tokyonight&count_private=true" alt="Khushal's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal020&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="175" />
 </p>
 
-### Socials
-                
-<p align="left"> <a href="https://www.github.com/khushal020" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/khushal020" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-                
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://www.github.com/khushal020" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/khushal020" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+</p>
