@@ -85,14 +85,14 @@ Driven by an operational mindset, I focus heavily on system resilience, low-late
 
 ---
 
-### 📊 GitHub Analytics
+<!-- ### 📊 GitHub Analytics
 
 <p align="center">
-  <!--<img src="https://github-readme-stats-fast.vercel.app/api?username=khushal020&show_icons=true&theme=tokyonight&count_private=true" alt="Khushal's GitHub Stats" height="175" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=khushal020&show_icons=true&theme=tokyonight&count_private=true" alt="Khushal's GitHub Stats" height="175" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=khushal020&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="175" />
 </p>
 
----
+--- -->
 
 ### 📬 Connect With Me
 
