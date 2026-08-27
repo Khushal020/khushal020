@@ -18,7 +18,7 @@ Driven by an operational mindset, I focus heavily on system resilience, low-late
 
 * 🌍 **Location:** Toronto, Ontario
 * ✉️ **Contact:** [khushalgondaliya020@gmail.com](mailto:khushalgondaliya020@gmail.com)
-* 🚀 **Currently Building:** [Idencis POS & Ecommerce platform](https://idencis.ca)
+* 🚀 **Currently Building:** [Idencis POS & Ecommerce platform](https://www.idencis.ca)
 * 🧠 **Currently Learning:** Kubernetes container orchestration, Advanced Apache Kafka event-sourcing patterns, and building high-concurrency microservices with **Go (Golang)**.
 * 👥 **Open to Collaborate On:** Open-source Java & Node.js microservices, real-time event-driven platforms (Kafka/Redis), React dashboards, and cloud infrastructure projects on AWS.
 
